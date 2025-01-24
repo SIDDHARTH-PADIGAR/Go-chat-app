@@ -174,4 +174,4 @@ terraform destroy  # Deletes all resources created by Terraform
 ## Note
 
 This project is developed primarily for the purpose of learning, practicing, and showcasing skills in cloud computing, Go development, and Terraform. It is not intended for production deployment or commercial use. The infrastructure and configuration presented here are meant to demonstrate the developer's understanding and proficiency in these technologies.
-```
+
