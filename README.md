@@ -171,7 +171,7 @@ Remember to clean up resources after you’re done with the deployment to avoid 
 terraform destroy  # Deletes all resources created by Terraform
 ```
 
-## License
+## Note
 
-This project is licensed under the MIT License.
+This project is developed primarily for the purpose of learning, practicing, and showcasing skills in cloud computing, Go development, and Terraform. It is not intended for production deployment or commercial use. The infrastructure and configuration presented here are meant to demonstrate the developer's understanding and proficiency in these technologies.
 ```
